@@ -12,7 +12,7 @@ N/A
 
 This challenged allowed me to improve my JavaScript coding skills, as I was given a starter code with almost nothing inside of the JavaScript file, and had to develop a working code to display the current day, and save the logged information from the user even after the user refreshes or leaves the page.
 
-Deployed Website Link: <a href="https://pguerra98.github.io/work-day-scheduler-pedro-guerra">Deployed Website Link</a>
+Deployed Website Link: <a href="https://pguerra98.github.io/work-day-scheduler-pedro-guerra/">Deployed Website Link</a>
 
 ![alt text](assets/Screenshot%20work-day-scheduler.png)
 
